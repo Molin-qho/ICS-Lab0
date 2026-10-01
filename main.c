@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Lab0 done");
+    main change
     printf("Hello, world!\n");
 }
